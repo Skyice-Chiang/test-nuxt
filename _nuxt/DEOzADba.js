@@ -1,0 +1,1 @@
+import{u as s,o as a,c as o,a as t,t as c,e as n}from"./D5mwOmjw.js";const r={class:"dynamic-pages"},p={__name:"[id]",setup(l){const e=s();return console.log(e),(u,_)=>(a(),o("div",r,[t("h1",null,"動態網址 : "+c(n(e).href),1)]))}};export{p as default};
